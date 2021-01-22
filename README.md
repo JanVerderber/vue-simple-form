@@ -1,5 +1,7 @@
 # vue-simple-form
 
+A simple Vue.js form for handling user's input
+
 ## Project setup
 ```
 npm install
