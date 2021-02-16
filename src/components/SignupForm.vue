@@ -75,7 +75,7 @@ export default {
         handleSubmit() {
             // validate password
             this.passwordError = this.passwordError.length > 5 ? 
-                '' : 'Password must be at least 6 characters longs'
+                '' : 'Password must be at least 6 characters long'
 
             if (!this.passwordError) {
                 console.log('email: ', this.email)
